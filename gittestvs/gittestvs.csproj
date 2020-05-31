@@ -158,6 +158,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ShakeebsController.cs" />
     <Compile Include="Controllers\test3Controller.cs" />
+    <Compile Include="Controllers\ShakeebTest2Controller.cs" />
     <Compile Include="Controllers\testController.cs" />
     <Compile Include="Controllers\tests2Controller.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
